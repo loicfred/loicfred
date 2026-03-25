@@ -45,7 +45,7 @@ All the personal projects I made by myself.
 ### 💬 [MauLamour](https://github.com/loicfred/MauLamour)
 > A functional chatting and matching system built with Spring Boot (Java) and Maven.  
 > Supports real-time messaging and user matching features.  
-> See also:
+> **See also:**
 > - [MauDonate](https://github.com/loicfred/MauDonate)
 > - [MauTresor](https://github.com/loicfred/MauTresor)
 
