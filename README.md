@@ -92,8 +92,8 @@ All the projects I have done for university.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width=500 height=300 src="https://github-readme-stats.vercel.app/api?username=loicfred&show_icons=true&theme=default&hide_border=true" alt="Loic Fred's GitHub stats" />
-  <img width=380 height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loicfred&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img width=500 height=250 src="https://github-readme-stats.vercel.app/api?username=loicfred&show_icons=true&theme=default&hide_border=true" alt="Loic Fred's GitHub stats" />
+  <img width=380 height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loicfred&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
