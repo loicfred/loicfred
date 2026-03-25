@@ -22,19 +22,15 @@ I'm a software developer with a passion for building clean, functional applicati
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQServer](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 [InazumaElevenLibraries](https://github.com/loicfred/InazumaElevenLibraries)
-> Java API library providing access to data from the Inazuma Eleven game series.  
-> Built with Java and Maven, backed by SQLite databases for each game entry (Cross Striker, Galaxy, Go1, etc.).
-
-### 🏆 [ChallongeAPI](https://github.com/loicfred/ChallongeAPI)
-> Java client library for the Challonge REST API.  
-> Enables developers to manage tournaments, participants, and matches programmatically.
+### 🎮 [MyLoicUtilities](https://github.com/MyLoicUtilities)
+> Features various Java libraries providing access to utility functions.
+> Easier, fast and simple functions to manage Database, AI, Discord, etc...
 
 ### 💬 [MauLamour](https://github.com/loicfred/MauLamour)
 > A functional chatting and matching system built with Spring Boot (Java) and Maven.  
