@@ -41,10 +41,8 @@ All the personal libraries I made myself for use in my projects.
 
 ---
 
-## 🚀 Featured Projects
-All the personal projects I have done by myself.
-
----
+## 🚀 Personal Projects
+All the personal projects I made by myself.
 
 ### 💬 [MauLamour](https://github.com/loicfred/MauLamour)
 > A functional chatting and matching system built with Spring Boot (Java) and Maven.  
