@@ -33,7 +33,7 @@ I'm a software developer with a passion for building clean, functional applicati
 ---
 
 ## 🚀 Libraries
-> All the personal libaries I made myself for use in my projects.
+All the personal libaries I made myself for use in my projects.
 
 ### 🎮 [MyLoicUtilities](https://github.com/MyLoicUtilities)
 > A set of Java libraries providing access to utility functions.
@@ -42,7 +42,7 @@ I'm a software developer with a passion for building clean, functional applicati
 ---
 
 ## 🚀 Featured Projects
-> All the personal projects I have done by myself.
+All the personal projects I have done by myself.
 
 ---
 
@@ -56,7 +56,7 @@ I'm a software developer with a passion for building clean, functional applicati
 ---
 
 ## 🎓 University Projects
-> All the projects I have done for university.
+All the projects I have done for university.
 
 ### 📋 Final Year Project
 > WIP
