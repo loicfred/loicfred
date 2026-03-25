@@ -20,38 +20,58 @@ I'm a software developer with a passion for building clean, functional applicati
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+
+**Database**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
+## 🚀 Dependencies
 ### 🎮 [MyLoicUtilities](https://github.com/MyLoicUtilities)
-> Features various Java libraries providing access to utility functions.
-> Easier, fast and simple functions to manage Database, AI, Discord, etc...
+> A set of Java libraries providing access to utility functions.
+> Easier, fast and simple functions & tools to manage Database, AI, Discord, etc...
+
+## 🚀 Featured Projects
 
 ### 💬 [MauLamour](https://github.com/loicfred/MauLamour)
 > A functional chatting and matching system built with Spring Boot (Java) and Maven.  
 > Supports real-time messaging and user matching features.
 
-### 📋 [ProjectPulse](https://github.com/loicfred/ProjectPulse)
-> A web service API built with C# and .NET for project management.  
-> Structured with a clean architecture: API, Common, Console, and Database layers.
+## 🎓 University Projects
 
-### 📚 [BookSmartPublished](https://github.com/loicfred/BookSmartPublished)
-> A web application built with ASP.NET for managing book-related resources.  
-> Developed as a university web application assignment.
+### 📋 Final Year Project
+> WIP
+> 
+### 💬 [MauDonate](https://github.com/loicfred/MauDonate)
+> A functional donation platform between donors and receive built Spring Boot (Java) and Maven.
+> It allows people in need to be heard and associations to post their campaigns.
+
+### 💬 [MauTresor](https://github.com/loicfred/MauTresor)
+> A functional PHP web application used to display heritage sites of Mauritius and play treasure hunts. 
+> It includes an API for the sites, cultures and events organised as well as an admin panel.
+
+### 📚 [BookSmart](https://github.com/loicfred/BookSmart)
+> A functional web application built with ASP.NET for managing book-related resources.  
+> It features a SQL Server database, authentication, admin panel, dynamic pages and so on.
+
+### 🩺 [LacunarStrokeProject](https://github.com/loicfred/Lacunar_Stroke_Project) (Group-Project)
+> A Python application with a Random Forest algorithm used to predict lacunar stroke risks.
+> It features a patient and doctor dashboard accessible through a Flask web application.
 
 ### ♟️ [ChessGame](https://github.com/loicfred/ChessGame)
 > A Java chess game implementing Object-Oriented Programming principles.  
-> Built as part of an OOP university assignment.
+> It features all the rules of chess and is fully customizable.
+
+### 📋 [ProjectPulse](https://github.com/loicfred/ProjectPulse)
+> A simple web service API built with C# and .NET for project management.  
+> Structured with a clean architecture: API, Common, Console, and Database layers.
 
 ### 🎓 [StudentManagementSystem](https://github.com/loicfred/StudentManagementSystem)
-> A Java application demonstrating core Data Structures & Algorithms concepts  
+> A simple Java application demonstrating core Data Structures & Algorithms concepts  
 > through an end-to-end student management workflow.
-
 ---
 
 ## 📊 GitHub Stats
@@ -63,8 +83,9 @@ I'm a software developer with a passion for building clean, functional applicati
 
 ---
 
-## 📫 Get in Touch
+## 📫 Contact Me
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
 
 [![GitHub](https://img.shields.io/badge/GitHub-loicfred-181717?style=flat&logo=github)](https://github.com/loicfred)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-loicfred-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/loicfred)
