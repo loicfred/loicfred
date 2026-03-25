@@ -10,9 +10,9 @@ I'm a software developer with a passion for building clean, functional applicati
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks & Tools**
@@ -25,8 +25,8 @@ I'm a software developer with a passion for building clean, functional applicati
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
@@ -93,3 +93,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 [![GitHub](https://img.shields.io/badge/GitHub-loicfred-181717?style=flat&logo=github)](https://github.com/loicfred)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-loicfred-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/loicfred)
+
+
+**Note:**
+> The languages, frameworks, databases, and projects listed above are ranked in descending order of my expertise.
