@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Loic Fred 👋
 
-<!--
-**loicfred/loicfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with a passion for building clean, functional applications — from REST API libraries to full-stack web platforms. I enjoy working across the stack and turning ideas into working software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 [InazumaElevenLibraries](https://github.com/loicfred/InazumaElevenLibraries)
+> Java API library providing access to data from the Inazuma Eleven game series.  
+> Built with Java and Maven, backed by SQLite databases for each game entry (Cross Striker, Galaxy, Go1, etc.).
+
+### 🏆 [ChallongeAPI](https://github.com/loicfred/ChallongeAPI)
+> Java client library for the Challonge REST API.  
+> Enables developers to manage tournaments, participants, and matches programmatically.
+
+### 💬 [MauLamour](https://github.com/loicfred/MauLamour)
+> A functional chatting and matching system built with Spring Boot (Java) and Maven.  
+> Supports real-time messaging and user matching features.
+
+### 📋 [ProjectPulse](https://github.com/loicfred/ProjectPulse)
+> A web service API built with C# and .NET for project management.  
+> Structured with a clean architecture: API, Common, Console, and Database layers.
+
+### 📚 [BookSmartPublished](https://github.com/loicfred/BookSmartPublished)
+> A web application built with ASP.NET for managing book-related resources.  
+> Developed as a university web application assignment.
+
+### ♟️ [ChessGame](https://github.com/loicfred/ChessGame)
+> A Java chess game implementing Object-Oriented Programming principles.  
+> Built as part of an OOP university assignment.
+
+### 🎓 [StudentManagementSystem](https://github.com/loicfred/StudentManagementSystem)
+> A Java application demonstrating core Data Structures & Algorithms concepts  
+> through an end-to-end student management workflow.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loicfred&show_icons=true&theme=default&hide_border=true" alt="Loic Fred's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loicfred&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Get in Touch
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
+
+[![GitHub](https://img.shields.io/badge/GitHub-loicfred-181717?style=flat&logo=github)](https://github.com/loicfred)
