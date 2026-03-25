@@ -13,6 +13,7 @@ I'm a software developer with a passion for building clean, functional applicati
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -20,16 +21,18 @@ I'm a software developer with a passion for building clean, functional applicati
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-## 🚀 Dependencies
+## 🚀 Libraries
 ### 🎮 [MyLoicUtilities](https://github.com/MyLoicUtilities)
 > A set of Java libraries providing access to utility functions.
 > Easier, fast and simple functions & tools to manage Database, AI, Discord, etc...
@@ -44,7 +47,7 @@ I'm a software developer with a passion for building clean, functional applicati
 
 ### 📋 Final Year Project
 > WIP
-> 
+
 ### 💬 [MauDonate](https://github.com/loicfred/MauDonate)
 > A functional donation platform between donors and receive built Spring Boot (Java) and Maven.
 > It allows people in need to be heard and associations to post their campaigns.
@@ -72,13 +75,14 @@ I'm a software developer with a passion for building clean, functional applicati
 ### 🎓 [StudentManagementSystem](https://github.com/loicfred/StudentManagementSystem)
 > A simple Java application demonstrating core Data Structures & Algorithms concepts  
 > through an end-to-end student management workflow.
+> 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loicfred&show_icons=true&theme=default&hide_border=true" alt="Loic Fred's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loicfred&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img height=300 src="https://github-readme-stats.vercel.app/api?username=loicfred&show_icons=true&theme=default&hide_border=true" alt="Loic Fred's GitHub stats" />
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loicfred&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
