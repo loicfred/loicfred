@@ -22,6 +22,7 @@ I'm a software developer with a passion for building clean, functional applicati
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQServer](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqserver&logoColor=white)
 
 ---
 
