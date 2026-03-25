@@ -71,10 +71,6 @@ All the projects I have done for university.
 > A functional web application built with ASP.NET for managing book-related resources.  
 > It features a SQL Server database, authentication, admin panel, dynamic pages and so on.
 
-### 🩺 [LacunarStrokeProject](https://github.com/loicfred/Lacunar_Stroke_Project) (Group-Project)
-> A Python application with a Random Forest algorithm used to predict lacunar stroke risks.
-> It features a patient and doctor dashboard accessible through a Flask web application.
-
 ### ♟️ [ChessGame](https://github.com/loicfred/ChessGame)
 > A Java chess game implementing Object-Oriented Programming principles.  
 > It features all the rules of chess and is fully customizable.
@@ -86,7 +82,11 @@ All the projects I have done for university.
 ### 🎓 [StudentManagementSystem](https://github.com/loicfred/StudentManagementSystem)
 > A simple Java application demonstrating core Data Structures & Algorithms concepts  
 > through an end-to-end student management workflow.
-> 
+
+### 🩺 [LacunarStrokeProject](https://github.com/loicfred/Lacunar_Stroke_Project) (Group-Project)
+> A Python application with a Random Forest algorithm used to predict lacunar stroke risks.
+> It features a patient and doctor dashboard accessible through a Flask web application.
+ 
 ---
 
 ## 📊 GitHub Stats
