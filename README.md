@@ -60,11 +60,11 @@ All the projects I have done for university.
 > WIP
 
 ### 💬 [MauDonate](https://github.com/loicfred/MauDonate)
-> A functional donation platform between donors and receive built Spring Boot (Java) and Maven.
+> A functional donation platform between donors and receive built Spring Boot (Java) and Maven.  
 > It allows people in need to be heard and associations to post their campaigns.
 
 ### 💬 [MauTresor](https://github.com/loicfred/MauTresor)
-> A functional PHP web application used to display heritage sites of Mauritius and play treasure hunts. 
+> A functional PHP web application used to display heritage sites of Mauritius and play treasure hunts.  
 > It includes an API for the sites, cultures and events organised as well as an admin panel.
 
 ### 📚 [BookSmart](https://github.com/loicfred/BookSmart)
@@ -84,7 +84,7 @@ All the projects I have done for university.
 > through an end-to-end student management workflow.
 
 ### 🩺 [LacunarStrokeProject](https://github.com/loicfred/Lacunar_Stroke_Project) (Group-Project)
-> A Python application with a Random Forest algorithm used to predict lacunar stroke risks.
+> A Python application with a Random Forest algorithm used to predict lacunar stroke risks.  
 > It features a patient and doctor dashboard accessible through a Flask web application.
  
 ---
