@@ -38,12 +38,17 @@ I'm a software developer with a passion for building clean, functional applicati
 > Easier, fast and simple functions & tools to manage Database, AI, Discord, etc...
 
 ## 🚀 Featured Projects
+- All the personal projects I have done by myself.
 
 ### 💬 [MauLamour](https://github.com/loicfred/MauLamour)
 > A functional chatting and matching system built with Spring Boot (Java) and Maven.  
 > Supports real-time messaging and user matching features.
+> See also
+> - [MauDonate](https://github.com/loicfred/MauDonate)
+> - [MauTresor](https://github.com/loicfred/MauTresor)
 
 ## 🎓 University Projects
+- All the projects I have done for university.
 
 ### 📋 Final Year Project
 > WIP
