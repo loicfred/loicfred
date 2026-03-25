@@ -3,7 +3,6 @@
 I'm a software developer with a passion for building clean, functional applications — from REST API libraries to full-stack web platforms. I enjoy working across the stack and turning ideas into working software.
 
 
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -30,6 +29,7 @@ I'm a software developer with a passion for building clean, functional applicati
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
+---
 
 ## 🚀 Libraries
 All the personal libraries I made myself for use in my projects.
