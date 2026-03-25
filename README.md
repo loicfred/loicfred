@@ -33,7 +33,7 @@ I'm a software developer with a passion for building clean, functional applicati
 ---
 
 ## 🚀 Libraries
-All the personal libaries I made myself for use in my projects.
+All the personal libraries I made myself for use in my projects.
 
 ### 🎮 [MyLoicUtilities](https://github.com/MyLoicUtilities)
 > A set of Java libraries providing access to utility functions.
