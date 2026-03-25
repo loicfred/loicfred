@@ -80,8 +80,8 @@ All the projects I have done for university.
 > Structured with a clean architecture: API, Common, Console, and Database layers.
 
 ### 🎓 [StudentManagementSystem](https://github.com/loicfred/StudentManagementSystem)
-> A simple Java application demonstrating core Data Structures & Algorithms concepts  
-> through an end-to-end student management workflow.
+> A simple Java application demonstrating core Data Structures & Algorithms.  
+> It provides a management menu to get, add, update and delete students from a list.
 
 ### 🩺 [LacunarStrokeProject](https://github.com/loicfred/Lacunar_Stroke_Project) (Group-Project)
 > A Python application with a Random Forest algorithm used to predict lacunar stroke risks.  
