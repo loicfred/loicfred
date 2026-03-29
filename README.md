@@ -60,7 +60,7 @@ All the projects I have done for university.
 > A functional donation platform between donors and receive built Spring Boot (Java) and Maven.  
 > It allows people in need to be heard and associations to post their campaigns.
 
-### 💬 [MauTresor](https://github.com/loicfred/MauTresor)
+### 💬 [MauTresor](https://github.com/loicfred/MauTresor) (2P Group-Project)
 > A functional PHP web application used to display heritage sites of Mauritius and play treasure hunts.  
 > It includes an API for the sites, cultures and events organised as well as an admin panel.
 
@@ -68,7 +68,7 @@ All the projects I have done for university.
 > A functional web application built with ASP.NET for managing book-related resources.  
 > It features a SQL Server database, authentication, admin panel, dynamic pages and so on.
 
-### ♟️ [ChessGame](https://github.com/loicfred/ChessGame)
+### ♟️ [ChessGame](https://github.com/loicfred/ChessGame) (3P Group-Project)
 > A Java chess game implementing Object-Oriented Programming principles.  
 > It features all the rules of chess and is fully customizable.
 
@@ -80,7 +80,7 @@ All the projects I have done for university.
 > A simple Java application demonstrating core Data Structures & Algorithms.  
 > It provides a management menu to get, add, update and delete students from a list.
 
-### 🩺 [LacunarStrokeProject](https://github.com/loicfred/Lacunar_Stroke_Project) (Group-Project)
+### 🩺 [LacunarStrokeProject](https://github.com/loicfred/Lacunar_Stroke_Project) (4P Group-Project)
 > A Python application with a Random Forest algorithm used to predict lacunar stroke risks.  
 > It features a patient and doctor dashboard accessible through a Flask web application.
  
